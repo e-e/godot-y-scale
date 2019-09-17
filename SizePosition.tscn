@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://SizePosition.gd" type="Script" id=1]
+
+[node name="SizePosition" type="Position2D" groups=[
+"size_position",
+]]
+script = ExtResource( 1 )
